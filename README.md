@@ -2,7 +2,7 @@
 
 - :man_technologist: Estudando Desenvolvimento Full-Stack na [@betrybe](https://www.github.com/betrybe) 
 
-- :house: Moro em Maricá-RJ
+- :house: Natural de Maricá-RJ
 
 - :space_invader: Gosto de jogar nas horas vagas
 
