@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Gonçalves!</h1>
 <h3 align="center">And welcome to my GitHub account!</h3>
-<h3 align="center">I'm a brazillian Front End Developer and I'm glad to see you here 😄</h3>
+<h4 align="center">I'm a brazillian Front End Developer and I'm glad to see you here 😄</h4>
 
 - 🌱 I’m currently learning **Tailwind, Material UI and Typescript**
 
