@@ -2,7 +2,7 @@
 <h3 align="center">And welcome to my GitHub account!</h3>
 <h4 align="center">I'm a brazillian Front End Developer and I'm glad to see you here 😄</h4>
 
-- 🔭 I’m currently working on nothing(yet...)
+- 🔭 I’m currently working on [Frontend basic blog](https://github.com/samuel5g/basic-blog)
 
 - 🌱 I’m currently learning **Tailwind, Material UI and Typescript**
 
