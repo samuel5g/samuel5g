@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samuel Gonçalves!</h1>
 <h3 align="center">And welcome to my GitHub account!</h3>
-<h4 align="center">I'm a brazillian Front End Developer and I'm glad to see you here 😄</h4>
+<h4 align="center">I'm a brazillian Front-end Developer and I'm glad to see you here 😄</h4>
 
-- 🔭 I’m currently working on [Jordan Shop](https://github.com/samuel5g/jordan-shop)
+- 🔭 I’m currently working on [Habits](https://github.com/samuel5g/habits)
 
-- 🌱 I’m currently learning **Tailwind, Material UI and Typescript**
+- 🌱 I’m currently learning **Tailwind, Typescript, React-Native **
 
 - 👨‍💻 All of my projects are available at [github.com/samuel5g](github.com/samuel5g)
 
-- 💬 Ask me about **Programming, games and geek things**
+- 💬 Ask me about **Programming, Games and Geek things**
 
 - 📫 How to reach me **samuelmonteiro21@gmail.com**
 
