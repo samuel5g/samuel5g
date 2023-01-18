@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Habits](https://github.com/samuel5g/habits)
 
-- 🌱 I’m currently learning **Tailwind, Typescript, React-Native **
+- 🌱 I’m currently learning **Tailwind, Typescript and React-Native**
 
 - 👨‍💻 All of my projects are available at [github.com/samuel5g](github.com/samuel5g)
 
